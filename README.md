@@ -1,0 +1,1 @@
+This is Ajdin's first git project.
